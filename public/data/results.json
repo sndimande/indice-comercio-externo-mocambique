@@ -1,0 +1,2132 @@
+{
+  "metadata": {
+    "base_year": 2022,
+    "export_coverage": "2022-01 a 2025-09",
+    "import_coverage": "2022-2025",
+    "valid_units": {
+      "KG": 1.0,
+      "G": 0.001,
+      "KGN": 1.0,
+      "KK2O": 1.0,
+      "KNAOH": 1.0
+    },
+    "minimum_value_usd": 1000,
+    "minimum_quantity_kg": 100,
+    "ivu_range": [
+      20,
+      300
+    ],
+    "weights": "Valor corrente dentro do fluxo; pesos globais fixos de 2022"
+  },
+  "audit": {
+    "Exportações": {
+      "raw_records": 52035,
+      "eligible_records": 20835,
+      "unit_excluded": 10970,
+      "value_lt_1000": 17483,
+      "quantity_lt_100kg": 2746,
+      "nonpositive": 1,
+      "unique_sh8_after_filters": 1095,
+      "base_basket_sh8": 98
+    },
+    "Importações": {
+      "raw_records": 1442520,
+      "unit_excluded": 577087,
+      "value_lt_1000": 448135,
+      "eligible_records": 318029,
+      "quantity_lt_100kg": 99214,
+      "nonpositive": 55,
+      "year_corrected": 1,
+      "unique_sh8_after_filters": 2974,
+      "base_basket_sh8": 300
+    }
+  },
+  "baskets": {
+    "Exportações": 98,
+    "Importações": 300
+  },
+  "flow_weights_2022": {
+    "Exportações": 0.4999724918637965,
+    "Importações": 0.5000275081362036,
+    "export_value_usd": 5517221948.763701,
+    "import_value_usd": 5517829056.135813
+  },
+  "results": {
+    "mensal": [
+      {
+        "year": 2022,
+        "period_no": 1,
+        "period": "2022-01",
+        "months": [
+          1
+        ],
+        "Exportações": {
+          "index": 100.38178292125163,
+          "eligible_sh8": 73,
+          "eligible_value_usd": 314793409.1456974
+        },
+        "Importações": {
+          "index": 104.81314447823327,
+          "eligible_sh8": 267,
+          "eligible_value_usd": 315487534.6700751
+        },
+        "Global": {
+          "index": 102.59758559823973,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 2,
+        "period": "2022-02",
+        "months": [
+          2
+        ],
+        "Exportações": {
+          "index": 102.22264486331439,
+          "eligible_sh8": 82,
+          "eligible_value_usd": 270631111.140316
+        },
+        "Importações": {
+          "index": 98.08088898106736,
+          "eligible_sh8": 270,
+          "eligible_value_usd": 325529931.1813939
+        },
+        "Global": {
+          "index": 100.15165299020595,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 3,
+        "period": "2022-03",
+        "months": [
+          3
+        ],
+        "Exportações": {
+          "index": 100.03888088223295,
+          "eligible_sh8": 86,
+          "eligible_value_usd": 346662583.8139866
+        },
+        "Importações": {
+          "index": 100.62873187783707,
+          "eligible_sh8": 271,
+          "eligible_value_usd": 414538632.01006347
+        },
+        "Global": {
+          "index": 100.33382260573654,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 4,
+        "period": "2022-04",
+        "months": [
+          4
+        ],
+        "Exportações": {
+          "index": 103.3904412423117,
+          "eligible_sh8": 81,
+          "eligible_value_usd": 437490579.8513566
+        },
+        "Importações": {
+          "index": 96.39131770257558,
+          "eligible_sh8": 281,
+          "eligible_value_usd": 437918446.92414963
+        },
+        "Global": {
+          "index": 99.8906869396,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 5,
+        "period": "2022-05",
+        "months": [
+          5
+        ],
+        "Exportações": {
+          "index": 97.99997749607489,
+          "eligible_sh8": 82,
+          "eligible_value_usd": 459761721.77965665
+        },
+        "Importações": {
+          "index": 98.05596336432419,
+          "eligible_sh8": 285,
+          "eligible_value_usd": 526647263.56384546
+        },
+        "Global": {
+          "index": 98.02797197026644,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 6,
+        "period": "2022-06",
+        "months": [
+          6
+        ],
+        "Exportações": {
+          "index": 101.02865614591255,
+          "eligible_sh8": 85,
+          "eligible_value_usd": 496205610.2596566
+        },
+        "Importações": {
+          "index": 103.72245248279464,
+          "eligible_sh8": 287,
+          "eligible_value_usd": 573810255.8416317
+        },
+        "Global": {
+          "index": 102.37562841567014,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 7,
+        "period": "2022-07",
+        "months": [
+          7
+        ],
+        "Exportações": {
+          "index": 101.84302849043645,
+          "eligible_sh8": 81,
+          "eligible_value_usd": 637050527.936
+        },
+        "Importações": {
+          "index": 105.42852559666737,
+          "eligible_sh8": 280,
+          "eligible_value_usd": 500000325.38637316
+        },
+        "Global": {
+          "index": 103.63587567389467,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 8,
+        "period": "2022-08",
+        "months": [
+          8
+        ],
+        "Exportações": {
+          "index": 97.83626319711449,
+          "eligible_sh8": 89,
+          "eligible_value_usd": 489161270.39903176
+        },
+        "Importações": {
+          "index": 103.88070013541409,
+          "eligible_sh8": 287,
+          "eligible_value_usd": 579227356.9083503
+        },
+        "Global": {
+          "index": 100.85864793745887,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 9,
+        "period": "2022-09",
+        "months": [
+          9
+        ],
+        "Exportações": {
+          "index": 102.93514056521924,
+          "eligible_sh8": 88,
+          "eligible_value_usd": 551333103.6739999
+        },
+        "Importações": {
+          "index": 108.72177235597844,
+          "eligible_sh8": 286,
+          "eligible_value_usd": 453875997.9265
+        },
+        "Global": {
+          "index": 105.82861564005431,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 10,
+        "period": "2022-10",
+        "months": [
+          10
+        ],
+        "Exportações": {
+          "index": 100.39921823843439,
+          "eligible_sh8": 86,
+          "eligible_value_usd": 607155750.94
+        },
+        "Importações": {
+          "index": 101.63492234464412,
+          "eligible_sh8": 279,
+          "eligible_value_usd": 426401795.8884777
+        },
+        "Global": {
+          "index": 101.01710428345612,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 11,
+        "period": "2022-11",
+        "months": [
+          11
+        ],
+        "Exportações": {
+          "index": 101.11054458210303,
+          "eligible_sh8": 88,
+          "eligible_value_usd": 517709552.09400004
+        },
+        "Importações": {
+          "index": 100.5891392364571,
+          "eligible_sh8": 283,
+          "eligible_value_usd": 458906612.1264534
+        },
+        "Global": {
+          "index": 100.84982756639081,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 12,
+        "period": "2022-12",
+        "months": [
+          12
+        ],
+        "Exportações": {
+          "index": 99.58710270968476,
+          "eligible_sh8": 79,
+          "eligible_value_usd": 389266727.7300001
+        },
+        "Importações": {
+          "index": 97.44882427825745,
+          "eligible_sh8": 279,
+          "eligible_value_usd": 505484903.70849866
+        },
+        "Global": {
+          "index": 98.51790467391677,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 1,
+        "period": "2023-01",
+        "months": [
+          1
+        ],
+        "Exportações": {
+          "index": 89.05347775509465,
+          "eligible_sh8": 53,
+          "eligible_value_usd": 76820577.66
+        },
+        "Importações": {
+          "index": 93.80931203588153,
+          "eligible_sh8": 197,
+          "eligible_value_usd": 146834958.9978052
+        },
+        "Global": {
+          "index": 91.43152571962526,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 2,
+        "period": "2023-02",
+        "months": [
+          2
+        ],
+        "Exportações": {
+          "index": 80.51449990032057,
+          "eligible_sh8": 53,
+          "eligible_value_usd": 90555117.91999999
+        },
+        "Importações": {
+          "index": 99.21035053861816,
+          "eligible_sh8": 185,
+          "eligible_value_usd": 158204047.06269032
+        },
+        "Global": {
+          "index": 89.86293950747518,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 3,
+        "period": "2023-03",
+        "months": [
+          3
+        ],
+        "Exportações": {
+          "index": 121.98608312309807,
+          "eligible_sh8": 48,
+          "eligible_value_usd": 76506688.55
+        },
+        "Importações": {
+          "index": 96.66985085736027,
+          "eligible_sh8": 195,
+          "eligible_value_usd": 249312728.57670474
+        },
+        "Global": {
+          "index": 109.32727058786385,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 4,
+        "period": "2023-04",
+        "months": [
+          4
+        ],
+        "Exportações": {
+          "index": 95.6546437490313,
+          "eligible_sh8": 52,
+          "eligible_value_usd": 61045776.55
+        },
+        "Importações": {
+          "index": 92.14963898009712,
+          "eligible_sh8": 199,
+          "eligible_value_usd": 184154791.3995
+        },
+        "Global": {
+          "index": 93.90204494841564,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 5,
+        "period": "2023-05",
+        "months": [
+          5
+        ],
+        "Exportações": {
+          "index": 90.90045161993073,
+          "eligible_sh8": 47,
+          "eligible_value_usd": 70628084.3
+        },
+        "Importações": {
+          "index": 92.7620339419125,
+          "eligible_sh8": 196,
+          "eligible_value_usd": 162860831.41617188
+        },
+        "Global": {
+          "index": 91.8312939895817,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 6,
+        "period": "2023-06",
+        "months": [
+          6
+        ],
+        "Exportações": {
+          "index": 114.50185077338193,
+          "eligible_sh8": 53,
+          "eligible_value_usd": 54260288.86
+        },
+        "Importações": {
+          "index": 88.03098307753326,
+          "eligible_sh8": 197,
+          "eligible_value_usd": 271533587.8271293
+        },
+        "Global": {
+          "index": 101.2656887612236,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 7,
+        "period": "2023-07",
+        "months": [
+          7
+        ],
+        "Exportações": {
+          "index": 110.76873050024633,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 41530592.11
+        },
+        "Importações": {
+          "index": 88.69449707487567,
+          "eligible_sh8": 195,
+          "eligible_value_usd": 160678852.89114067
+        },
+        "Global": {
+          "index": 99.73100656654137,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 8,
+        "period": "2023-08",
+        "months": [
+          8
+        ],
+        "Exportações": {
+          "index": 87.39088909713628,
+          "eligible_sh8": 54,
+          "eligible_value_usd": 85713238.48
+        },
+        "Importações": {
+          "index": 106.18979658195018,
+          "eligible_sh8": 202,
+          "eligible_value_usd": 167347541.03181782
+        },
+        "Global": {
+          "index": 96.79085996245081,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 9,
+        "period": "2023-09",
+        "months": [
+          9
+        ],
+        "Exportações": {
+          "index": 96.97510082277728,
+          "eligible_sh8": 51,
+          "eligible_value_usd": 56922760.26
+        },
+        "Importações": {
+          "index": 96.60403277778126,
+          "eligible_sh8": 189,
+          "eligible_value_usd": 193005717.95417
+        },
+        "Global": {
+          "index": 96.78955659288894,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 10,
+        "period": "2023-10",
+        "months": [
+          10
+        ],
+        "Exportações": {
+          "index": 112.91121090487616,
+          "eligible_sh8": 48,
+          "eligible_value_usd": 23594326.81
+        },
+        "Importações": {
+          "index": 87.22904480288176,
+          "eligible_sh8": 200,
+          "eligible_value_usd": 227460932.555
+        },
+        "Global": {
+          "index": 100.06942138535584,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 11,
+        "period": "2023-11",
+        "months": [
+          11
+        ],
+        "Exportações": {
+          "index": 126.65057565080502,
+          "eligible_sh8": 49,
+          "eligible_value_usd": 57091500.65
+        },
+        "Importações": {
+          "index": 92.6537313753384,
+          "eligible_sh8": 200,
+          "eligible_value_usd": 209548105.82000002
+        },
+        "Global": {
+          "index": 109.6512183232489,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 12,
+        "period": "2023-12",
+        "months": [
+          12
+        ],
+        "Exportações": {
+          "index": 103.20240188891442,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 102876576.08
+        },
+        "Importações": {
+          "index": 92.56260614647084,
+          "eligible_sh8": 190,
+          "eligible_value_usd": 191101707.935
+        },
+        "Global": {
+          "index": 97.88221133674219,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 1,
+        "period": "2024-01",
+        "months": [
+          1
+        ],
+        "Exportações": {
+          "index": 85.47400120064368,
+          "eligible_sh8": 50,
+          "eligible_value_usd": 67403744.51
+        },
+        "Importações": {
+          "index": 85.07745550437771,
+          "eligible_sh8": 180,
+          "eligible_value_usd": 129245737.81793569
+        },
+        "Global": {
+          "index": 85.27571744427769,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 2,
+        "period": "2024-02",
+        "months": [
+          2
+        ],
+        "Exportações": {
+          "index": 115.66756582847272,
+          "eligible_sh8": 48,
+          "eligible_value_usd": 84795301.44450015
+        },
+        "Importações": {
+          "index": 85.36177004313514,
+          "eligible_sh8": 188,
+          "eligible_value_usd": 166899577.49054545
+        },
+        "Global": {
+          "index": 100.51383427984572,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 3,
+        "period": "2024-03",
+        "months": [
+          3
+        ],
+        "Exportações": {
+          "index": 117.93958966367455,
+          "eligible_sh8": 45,
+          "eligible_value_usd": 49779844.59592712
+        },
+        "Importações": {
+          "index": 83.10962772157579,
+          "eligible_sh8": 190,
+          "eligible_value_usd": 130062711.13290909
+        },
+        "Global": {
+          "index": 100.52365058528811,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 4,
+        "period": "2024-04",
+        "months": [
+          4
+        ],
+        "Exportações": {
+          "index": 124.01489149071145,
+          "eligible_sh8": 43,
+          "eligible_value_usd": 18069205.70028634
+        },
+        "Importações": {
+          "index": 86.50227422900547,
+          "eligible_sh8": 184,
+          "eligible_value_usd": 176991954.196
+        },
+        "Global": {
+          "index": 105.25755095767347,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 5,
+        "period": "2024-05",
+        "months": [
+          5
+        ],
+        "Exportações": {
+          "index": 122.11778662224866,
+          "eligible_sh8": 43,
+          "eligible_value_usd": 32001923.34
+        },
+        "Importações": {
+          "index": 99.25334796691729,
+          "eligible_sh8": 197,
+          "eligible_value_usd": 159066664.885
+        },
+        "Global": {
+          "index": 110.68493833649023,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 6,
+        "period": "2024-06",
+        "months": [
+          6
+        ],
+        "Exportações": {
+          "index": 128.30658119851148,
+          "eligible_sh8": 49,
+          "eligible_value_usd": 24424419.08
+        },
+        "Importações": {
+          "index": 91.76823798140792,
+          "eligible_sh8": 198,
+          "eligible_value_usd": 173735572.6522381
+        },
+        "Global": {
+          "index": 110.03640448823784,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 7,
+        "period": "2024-07",
+        "months": [
+          7
+        ],
+        "Exportações": {
+          "index": 82.96366220450233,
+          "eligible_sh8": 48,
+          "eligible_value_usd": 75238317.67
+        },
+        "Importações": {
+          "index": 89.83850711516877,
+          "eligible_sh8": 195,
+          "eligible_value_usd": 159409749.51543573
+        },
+        "Global": {
+          "index": 86.40127377400573,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 8,
+        "period": "2024-08",
+        "months": [
+          8
+        ],
+        "Exportações": {
+          "index": 112.66710577246913,
+          "eligible_sh8": 51,
+          "eligible_value_usd": 80565878.42
+        },
+        "Importações": {
+          "index": 81.05729451522951,
+          "eligible_sh8": 189,
+          "eligible_value_usd": 187649423.88012338
+        },
+        "Global": {
+          "index": 96.8613306168559,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 9,
+        "period": "2024-09",
+        "months": [
+          9
+        ],
+        "Exportações": {
+          "index": 99.07009953267911,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 86275227.32
+        },
+        "Importações": {
+          "index": 91.69009971937814,
+          "eligible_sh8": 190,
+          "eligible_value_usd": 147036490.47677836
+        },
+        "Global": {
+          "index": 95.37989661598859,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 10,
+        "period": "2024-10",
+        "months": [
+          10
+        ],
+        "Exportações": {
+          "index": 118.84000909994126,
+          "eligible_sh8": 47,
+          "eligible_value_usd": 60082473.32000001
+        },
+        "Importações": {
+          "index": 79.48521090519743,
+          "eligible_sh8": 182,
+          "eligible_value_usd": 155896918.406
+        },
+        "Global": {
+          "index": 99.16152742542036,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 11,
+        "period": "2024-11",
+        "months": [
+          11
+        ],
+        "Exportações": {
+          "index": 85.21534805013562,
+          "eligible_sh8": 50,
+          "eligible_value_usd": 92128544.42999999
+        },
+        "Importações": {
+          "index": 88.52011872546227,
+          "eligible_sh8": 189,
+          "eligible_value_usd": 182532755.942
+        },
+        "Global": {
+          "index": 86.86782429588081,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 12,
+        "period": "2024-12",
+        "months": [
+          12
+        ],
+        "Exportações": {
+          "index": 101.56876041510023,
+          "eligible_sh8": 43,
+          "eligible_value_usd": 135167831.88
+        },
+        "Importações": {
+          "index": 85.91307611889857,
+          "eligible_sh8": 185,
+          "eligible_value_usd": 120956425.401
+        },
+        "Global": {
+          "index": 93.74048760830343,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 1,
+        "period": "2025-01",
+        "months": [
+          1
+        ],
+        "Exportações": {
+          "index": 95.51726761040909,
+          "eligible_sh8": 32,
+          "eligible_value_usd": 121601216.30587232
+        },
+        "Importações": {
+          "index": 85.11793558839105,
+          "eligible_sh8": 173,
+          "eligible_value_usd": 90419991.24819696
+        },
+        "Global": {
+          "index": 90.31731553315839,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 2,
+        "period": "2025-02",
+        "months": [
+          2
+        ],
+        "Exportações": {
+          "index": 87.46222541511591,
+          "eligible_sh8": 42,
+          "eligible_value_usd": 52648362.16229736
+        },
+        "Importações": {
+          "index": 81.00687375042645,
+          "eligible_sh8": 177,
+          "eligible_value_usd": 106062501.11248744
+        },
+        "Global": {
+          "index": 84.23437200807835,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 3,
+        "period": "2025-03",
+        "months": [
+          3
+        ],
+        "Exportações": {
+          "index": 97.55386899471803,
+          "eligible_sh8": 41,
+          "eligible_value_usd": 81214540.17496067
+        },
+        "Importações": {
+          "index": 81.51589430322247,
+          "eligible_sh8": 179,
+          "eligible_value_usd": 77796773.16135842
+        },
+        "Global": {
+          "index": 89.53444047417801,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 4,
+        "period": "2025-04",
+        "months": [
+          4
+        ],
+        "Exportações": {
+          "index": 99.98375352010552,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 51314428.183803
+        },
+        "Importações": {
+          "index": 84.64995049671042,
+          "eligible_sh8": 187,
+          "eligible_value_usd": 134903241.65883118
+        },
+        "Global": {
+          "index": 92.31643020406588,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 5,
+        "period": "2025-05",
+        "months": [
+          5
+        ],
+        "Exportações": {
+          "index": 102.52936769233702,
+          "eligible_sh8": 41,
+          "eligible_value_usd": 65108099.88054375
+        },
+        "Importações": {
+          "index": 83.09293923034816,
+          "eligible_sh8": 186,
+          "eligible_value_usd": 122349132.5330722
+        },
+        "Global": {
+          "index": 92.81061880142116,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 6,
+        "period": "2025-06",
+        "months": [
+          6
+        ],
+        "Exportações": {
+          "index": 78.51122475598368,
+          "eligible_sh8": 41,
+          "eligible_value_usd": 61116215.15715941
+        },
+        "Importações": {
+          "index": 84.6431831250301,
+          "eligible_sh8": 183,
+          "eligible_value_usd": 100841445.88200629
+        },
+        "Global": {
+          "index": 81.57737261925291,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 7,
+        "period": "2025-07",
+        "months": [
+          7
+        ],
+        "Exportações": {
+          "index": 95.53127166303364,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 43381784.05896389
+        },
+        "Importações": {
+          "index": 84.81327899331929,
+          "eligible_sh8": 179,
+          "eligible_value_usd": 121686207.38818507
+        },
+        "Global": {
+          "index": 90.17198049617429,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 8,
+        "period": "2025-08",
+        "months": [
+          8
+        ],
+        "Exportações": {
+          "index": 85.24101872083538,
+          "eligible_sh8": 40,
+          "eligible_value_usd": 59524281.551775604
+        },
+        "Importações": {
+          "index": 85.75434479212947,
+          "eligible_sh8": 188,
+          "eligible_value_usd": 136193937.98353767
+        },
+        "Global": {
+          "index": 85.49769587712592,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 9,
+        "period": "2025-09",
+        "months": [
+          9
+        ],
+        "Exportações": {
+          "index": 97.56100961857145,
+          "eligible_sh8": 40,
+          "eligible_value_usd": 73840876.01732233
+        },
+        "Importações": {
+          "index": 99.90151136836562,
+          "eligible_sh8": 175,
+          "eligible_value_usd": 108525526.90566964
+        },
+        "Global": {
+          "index": 98.73132487630946,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      }
+    ],
+    "trimestral": [
+      {
+        "year": 2022,
+        "period_no": 1,
+        "period": "2022 T1",
+        "months": [
+          1,
+          2,
+          3
+        ],
+        "Exportações": {
+          "index": 100.14274546715403,
+          "eligible_sh8": 93,
+          "eligible_value_usd": 932087104.1
+        },
+        "Importações": {
+          "index": 100.33205109551005,
+          "eligible_sh8": 292,
+          "eligible_value_usd": 1055556097.8615324
+        },
+        "Global": {
+          "index": 100.23740348877706,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 2,
+        "period": "2022 T2",
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 100.38503847196826,
+          "eligible_sh8": 95,
+          "eligible_value_usd": 1393457911.8906698
+        },
+        "Importações": {
+          "index": 99.1678940803121,
+          "eligible_sh8": 299,
+          "eligible_value_usd": 1538375966.3296268
+        },
+        "Global": {
+          "index": 99.77643279476646,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 3,
+        "period": "2022 T3",
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "Exportações": {
+          "index": 100.43221205771282,
+          "eligible_sh8": 94,
+          "eligible_value_usd": 1677544902.0090318
+        },
+        "Importações": {
+          "index": 105.27028956619336,
+          "eligible_sh8": 299,
+          "eligible_value_usd": 1533103680.2212236
+        },
+        "Global": {
+          "index": 102.85138389844815,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 4,
+        "period": "2022 T4",
+        "months": [
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 100.03136729984185,
+          "eligible_sh8": 96,
+          "eligible_value_usd": 1514132030.7640002
+        },
+        "Importações": {
+          "index": 98.82648566919461,
+          "eligible_sh8": 297,
+          "eligible_value_usd": 1390793311.7234297
+        },
+        "Global": {
+          "index": 99.42889334047022,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 1,
+        "period": "2023 T1",
+        "months": [
+          1,
+          2,
+          3
+        ],
+        "Exportações": {
+          "index": 92.08864684123978,
+          "eligible_sh8": 64,
+          "eligible_value_usd": 246013241.3928179
+        },
+        "Importações": {
+          "index": 95.75777772124903,
+          "eligible_sh8": 217,
+          "eligible_value_usd": 556633783.6532003
+        },
+        "Global": {
+          "index": 93.9233132121964,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 2,
+        "period": "2023 T2",
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 97.71049998175947,
+          "eligible_sh8": 61,
+          "eligible_value_usd": 186603914.13
+        },
+        "Importações": {
+          "index": 89.97082921166086,
+          "eligible_sh8": 217,
+          "eligible_value_usd": 624580005.9788011
+        },
+        "Global": {
+          "index": 93.84045169279246,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 3,
+        "period": "2023 T3",
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "Exportações": {
+          "index": 92.81149897880303,
+          "eligible_sh8": 56,
+          "eligible_value_usd": 182772001.51
+        },
+        "Importações": {
+          "index": 95.60762447952922,
+          "eligible_sh8": 216,
+          "eligible_value_usd": 524462147.40112853
+        },
+        "Global": {
+          "index": 94.20963864536725,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 4,
+        "period": "2023 T4",
+        "months": [
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 110.48668073011957,
+          "eligible_sh8": 57,
+          "eligible_value_usd": 187357722.27
+        },
+        "Importações": {
+          "index": 88.37435067066397,
+          "eligible_sh8": 211,
+          "eligible_value_usd": 619095286.023
+        },
+        "Global": {
+          "index": 99.42990743140473,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 1,
+        "period": "2024 T1",
+        "months": [
+          1,
+          2,
+          3
+        ],
+        "Exportações": {
+          "index": 105.88936259600776,
+          "eligible_sh8": 56,
+          "eligible_value_usd": 206547926.12592712
+        },
+        "Importações": {
+          "index": 82.15624258338607,
+          "eligible_sh8": 206,
+          "eligible_value_usd": 428136611.7463902
+        },
+        "Global": {
+          "index": 94.02214973579908,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 2,
+        "period": "2024 T2",
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 126.81421474255012,
+          "eligible_sh8": 55,
+          "eligible_value_usd": 75664563.56235029
+        },
+        "Importações": {
+          "index": 86.08459368086253,
+          "eligible_sh8": 209,
+          "eligible_value_usd": 508641606.5642381
+        },
+        "Global": {
+          "index": 106.44828381574264,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 3,
+        "period": "2024 T3",
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "Exportações": {
+          "index": 96.46930750119719,
+          "eligible_sh8": 54,
+          "eligible_value_usd": 243785383.90999997
+        },
+        "Importações": {
+          "index": 86.53966685763157,
+          "eligible_sh8": 210,
+          "eligible_value_usd": 489815168.80333745
+        },
+        "Global": {
+          "index": 91.50421403350711,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 4,
+        "period": "2024 T4",
+        "months": [
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 92.84412357204023,
+          "eligible_sh8": 53,
+          "eligible_value_usd": 289154265.19
+        },
+        "Importações": {
+          "index": 82.27215078349492,
+          "eligible_sh8": 209,
+          "eligible_value_usd": 461121929.217
+        },
+        "Global": {
+          "index": 87.55784636250017,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 1,
+        "period": "2025 T1",
+        "months": [
+          1,
+          2,
+          3
+        ],
+        "Exportações": {
+          "index": 91.03928867591816,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 254518050.6313045
+        },
+        "Importações": {
+          "index": 79.4249614641231,
+          "eligible_sh8": 193,
+          "eligible_value_usd": 263867268.4837072
+        },
+        "Global": {
+          "index": 85.23180558152578,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 2,
+        "period": "2025 T2",
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 86.78826379265347,
+          "eligible_sh8": 51,
+          "eligible_value_usd": 186095666.99900812
+        },
+        "Importações": {
+          "index": 82.0108837354925,
+          "eligible_sh8": 209,
+          "eligible_value_usd": 361782969.8818167
+        },
+        "Global": {
+          "index": 84.39944234725168,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 3,
+        "period": "2025 T3",
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "Exportações": {
+          "index": 91.00563477277278,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 176074209.29708293
+        },
+        "Importações": {
+          "index": 85.38877746067786,
+          "eligible_sh8": 199,
+          "eligible_value_usd": 366121881.2859824
+        },
+        "Global": {
+          "index": 88.19705160744934,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      }
+    ],
+    "semestral": [
+      {
+        "year": 2022,
+        "period_no": 1,
+        "period": "2022 S1",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 100.13635217610846,
+          "eligible_sh8": 98,
+          "eligible_value_usd": 2325545015.9906697
+        },
+        "Importações": {
+          "index": 99.2245959579308,
+          "eligible_sh8": 300,
+          "eligible_value_usd": 2593932064.1911592
+        },
+        "Global": {
+          "index": 99.68044898630541,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2022,
+        "period_no": 2,
+        "period": "2022 S2",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 100.14459161714501,
+          "eligible_sh8": 97,
+          "eligible_value_usd": 3191676932.7730317
+        },
+        "Importações": {
+          "index": 101.82482677961596,
+          "eligible_sh8": 300,
+          "eligible_value_usd": 2923896991.9446535
+        },
+        "Global": {
+          "index": 100.98475541851819,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 1,
+        "period": "2023 S1",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 95.06438464937106,
+          "eligible_sh8": 64,
+          "eligible_value_usd": 432760932.30281794
+        },
+        "Importações": {
+          "index": 91.27711243796102,
+          "eligible_sh8": 229,
+          "eligible_value_usd": 1178585673.3290014
+        },
+        "Global": {
+          "index": 93.17064436286623,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 2,
+        "period": "2023 S2",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 99.92673920291217,
+          "eligible_sh8": 58,
+          "eligible_value_usd": 370606032.14
+        },
+        "Importações": {
+          "index": 90.35772888474654,
+          "eligible_sh8": 220,
+          "eligible_value_usd": 1135748624.8571284
+        },
+        "Global": {
+          "index": 95.1419708181902,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 1,
+        "period": "2024 S1",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 125.53025025607413,
+          "eligible_sh8": 58,
+          "eligible_value_usd": 191154651.7182774
+        },
+        "Importações": {
+          "index": 83.45250273900842,
+          "eligible_sh8": 213,
+          "eligible_value_usd": 937882163.6706283
+        },
+        "Global": {
+          "index": 104.49021901713144,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 2,
+        "period": "2024 S2",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 93.22199553215226,
+          "eligible_sh8": 57,
+          "eligible_value_usd": 532882341.52
+        },
+        "Importações": {
+          "index": 82.36619629007657,
+          "eligible_sh8": 215,
+          "eligible_value_usd": 966535372.7753375
+        },
+        "Global": {
+          "index": 87.79379728831027,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 1,
+        "period": "2025 S1",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "Exportações": {
+          "index": 90.24875111847906,
+          "eligible_sh8": 52,
+          "eligible_value_usd": 442550054.41869265
+        },
+        "Importações": {
+          "index": 79.74005916862664,
+          "eligible_sh8": 209,
+          "eligible_value_usd": 617067734.7258309
+        },
+        "Global": {
+          "index": 84.99411606902338,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 2,
+        "period": "2025 S2",
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "Exportações": {
+          "index": 91.00563477277278,
+          "eligible_sh8": 46,
+          "eligible_value_usd": 176074209.29708293
+        },
+        "Importações": {
+          "index": 85.38877746067786,
+          "eligible_sh8": 199,
+          "eligible_value_usd": 366121881.2859824
+        },
+        "Global": {
+          "index": 88.19705160744934,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      }
+    ],
+    "anual": [
+      {
+        "year": 2022,
+        "period_no": 1,
+        "period": "2022",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 100.00000000000001,
+          "eligible_sh8": 98,
+          "eligible_value_usd": 5517221948.763701
+        },
+        "Importações": {
+          "index": 100.0,
+          "eligible_sh8": 300,
+          "eligible_value_usd": 5517829056.135813
+        },
+        "Global": {
+          "index": 100.0,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2023,
+        "period_no": 1,
+        "period": "2023",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 95.0274039061299,
+          "eligible_sh8": 65,
+          "eligible_value_usd": 800844215.032818
+        },
+        "Importações": {
+          "index": 88.95958556705207,
+          "eligible_sh8": 231,
+          "eligible_value_usd": 2349417611.54713
+        },
+        "Global": {
+          "index": 91.99332782221767,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2024,
+        "period_no": 1,
+        "period": "2024",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "Exportações": {
+          "index": 110.7732245539857,
+          "eligible_sh8": 59,
+          "eligible_value_usd": 534325874.8582774
+        },
+        "Importações": {
+          "index": 82.81391655725996,
+          "eligible_sh8": 215,
+          "eligible_value_usd": 1911665204.2179656
+        },
+        "Global": {
+          "index": 96.7928014471703,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      },
+      {
+        "year": 2025,
+        "period_no": 1,
+        "period": "2025 Jan-Set",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "Exportações": {
+          "index": 88.1686919454075,
+          "eligible_sh8": 55,
+          "eligible_value_usd": 617620962.3524944
+        },
+        "Importações": {
+          "index": 80.0292683254542,
+          "eligible_sh8": 211,
+          "eligible_value_usd": 973545465.3565326
+        },
+        "Global": {
+          "index": 84.0987562350573,
+          "export_weight": 0.4999724918637965,
+          "import_weight": 0.5000275081362036
+        }
+      }
+    ]
+  },
+  "annual_series": {
+    "Exportações": [
+      100.00000000000001,
+      95.0274039061299,
+      110.7732245539857,
+      88.1686919454075
+    ],
+    "Importações": [
+      100.0,
+      88.95958556705207,
+      82.81391655725996,
+      80.0292683254542
+    ],
+    "Global": [
+      100.0,
+      91.99332782221767,
+      96.7928014471703,
+      84.0987562350573
+    ]
+  },
+  "forecast_2026": {
+    "Exportações": {
+      "method": "Tendência linear OLS 2022-2025; 2025 corresponde a Jan-Set",
+      "point": 93.55530422240054,
+      "lower_scenario": 85.61525894908101,
+      "upper_scenario": 101.49534949572006,
+      "slope_per_year": -1.9748103515923099,
+      "rmse": 7.940045273319529
+    },
+    "Importações": {
+      "method": "Tendência linear OLS 2022-2025; 2025 corresponde a Jan-Set",
+      "point": 71.43622660408437,
+      "lower_scenario": 69.36517406634297,
+      "upper_scenario": 73.50727914182576,
+      "slope_per_year": -6.605786403343035,
+      "rmse": 2.0710525377413984
+    },
+    "Global": {
+      "method": "Tendência linear OLS 2022-2025; 2025 corresponde a Jan-Set",
+      "point": 82.49515695864284,
+      "lower_scenario": 78.9105945601424,
+      "upper_scenario": 86.07971935714328,
+      "slope_per_year": -4.29042576698766,
+      "rmse": 3.584562398500437
+    }
+  },
+  "section_results": {
+    "Exportações": {
+      "I": {
+        "2022": 99.99999999999999,
+        "2023": 99.4487077432008,
+        "2024": 96.18324043681548,
+        "2025": 108.38886367915741
+      },
+      "II": {
+        "2022": 100.0,
+        "2023": 106.45907299958667,
+        "2024": 130.51200428484242,
+        "2025": 119.85790338688224
+      },
+      "III": {
+        "2022": 100.0,
+        "2023": 83.36652318952629,
+        "2024": 67.30164932873592,
+        "2025": 102.19640872625993
+      },
+      "IV": {
+        "2022": 100.0,
+        "2023": 96.03712724103626,
+        "2024": 85.86645206774124,
+        "2025": 94.98687515789308
+      },
+      "V": {
+        "2022": 100.0,
+        "2023": 90.28284747712179,
+        "2024": 58.65885481547782,
+        "2025": 71.1915464045776
+      },
+      "VI": {
+        "2022": 99.99999999999999,
+        "2023": 83.01228815164507,
+        "2024": 80.97903219459168,
+        "2025": 94.26933837608281
+      },
+      "VII": {
+        "2022": 100.0,
+        "2023": 51.86446939913824,
+        "2024": null,
+        "2025": 29.075114466845793
+      },
+      "VIII": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "IX": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": 195.27479266461918,
+        "2025": null
+      },
+      "X": {
+        "2022": 100.0,
+        "2023": 94.04608536852734,
+        "2024": 85.23387797760944,
+        "2025": 142.93248505181955
+      },
+      "XI": {
+        "2022": 100.0,
+        "2023": 77.88115245228161,
+        "2024": 71.51647758306643,
+        "2025": 129.82624302101053
+      },
+      "XII": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XIII": {
+        "2022": 100.0,
+        "2023": 21.31978834373647,
+        "2024": 21.422702283835623,
+        "2025": 20.655032368304
+      },
+      "XIV": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XV": {
+        "2022": 100.0,
+        "2023": 84.98022136179014,
+        "2024": 119.56124444338845,
+        "2025": 77.14990281117885
+      },
+      "XVI": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XVII": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XVIII": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XIX": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XX": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XXI": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      }
+    },
+    "Importações": {
+      "I": {
+        "2022": 99.99999999999999,
+        "2023": 106.66587969339359,
+        "2024": 84.77425415709628,
+        "2025": 85.59257025946944
+      },
+      "II": {
+        "2022": 100.0,
+        "2023": 78.95859794313166,
+        "2024": 88.73113070600498,
+        "2025": 87.32732065118421
+      },
+      "III": {
+        "2022": 100.0,
+        "2023": 87.87499267165677,
+        "2024": 95.62376613537802,
+        "2025": 89.87367135089286
+      },
+      "IV": {
+        "2022": 100.0,
+        "2023": 82.83912143251146,
+        "2024": 84.99998951145432,
+        "2025": 74.02950305381188
+      },
+      "V": {
+        "2022": 100.0,
+        "2023": 92.83085813195208,
+        "2024": 77.07750324601722,
+        "2025": 76.9220277938601
+      },
+      "VI": {
+        "2022": 100.0,
+        "2023": 86.54036743394867,
+        "2024": 83.02391596327314,
+        "2025": 79.1702000938624
+      },
+      "VII": {
+        "2022": 100.0,
+        "2023": 79.39439600050595,
+        "2024": 74.51673939990114,
+        "2025": 67.6172970823063
+      },
+      "VIII": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "IX": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": 40.68950347842413,
+        "2025": 45.57173826734464
+      },
+      "X": {
+        "2022": 100.0,
+        "2023": 88.55878995707508,
+        "2024": 117.97107580734954,
+        "2025": 66.26558203994666
+      },
+      "XI": {
+        "2022": 100.00000000000001,
+        "2023": 109.85442196923688,
+        "2024": 45.62396120284005,
+        "2025": 57.228075367941656
+      },
+      "XII": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XIII": {
+        "2022": 100.0,
+        "2023": 113.86149240980703,
+        "2024": 111.77258813280027,
+        "2025": 99.74217362221086
+      },
+      "XIV": {
+        "2022": 100.0,
+        "2023": 81.30175952473184,
+        "2024": 87.93209812264338,
+        "2025": 147.88064224994426
+      },
+      "XV": {
+        "2022": 99.99999999999999,
+        "2023": 82.45107810894675,
+        "2024": 80.25137363057048,
+        "2025": 64.33849309941688
+      },
+      "XVI": {
+        "2022": 100.0,
+        "2023": 85.54918533425564,
+        "2024": 68.46381154634011,
+        "2025": 89.9278709930038
+      },
+      "XVII": {
+        "2022": 99.99999999999999,
+        "2023": 99.5376134192004,
+        "2024": 73.67137197223515,
+        "2025": 24.92860771745943
+      },
+      "XVIII": {
+        "2022": 100.0,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XIX": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      },
+      "XX": {
+        "2022": 100.0,
+        "2023": 60.213153612887055,
+        "2024": 101.57280255022845,
+        "2025": 71.95602668944551
+      },
+      "XXI": {
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null
+      }
+    }
+  }
+}
