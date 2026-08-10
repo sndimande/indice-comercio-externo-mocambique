@@ -8,10 +8,10 @@ const dl='/downloads/';
 const files=[
  ['Resultados recalculados','Excel','Indices_Comercio_Externo_Recalculados_2022_2025_Previsao_2026.xlsx'],
  ['Fontes públicas agregadas','Excel','Fontes_Publicas_Agregadas_ICE_2022_2025.xlsx'],
- ['Relatório técnico','PDF','Relatorio_Tecnico_Indices_Comercio_Externo_Recalculados_2022_2025_Previsao_2026.pdf'],
- ['Relatório editável','Word','Relatorio_Tecnico_Indices_Comercio_Externo_Recalculados_2022_2025_Previsao_2026.docx'],
- ['Apresentação','PDF','Apresentacao_Indices_Comercio_Externo_Recalculados_2022_2025_Previsao_2026.pdf'],
- ['Apresentação editável','PowerPoint','Apresentacao_Indices_Comercio_Externo_Recalculados_2022_2025_Previsao_2026.pptx']
+ ['Relatório técnico','PDF','Relatorio_Final_ICE_Mocambique_2022_2025_Previsao_2026.pdf'],
+ ['Relatório editável','Word','Relatorio_Final_ICE_Mocambique_2022_2025_Previsao_2026.docx'],
+ ['Apresentação','PDF','Apresentacao_Final_ICE_Mocambique_2022_2025_Previsao_2026.pdf'],
+ ['Apresentação editável','PowerPoint','Apresentacao_Final_ICE_Mocambique_2022_2025_Previsao_2026.pptx']
 ];
 const fmt=(n:number)=>n?.toLocaleString('pt-MZ',{minimumFractionDigits:2,maximumFractionDigits:2});
 
