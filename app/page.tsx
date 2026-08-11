@@ -16,6 +16,8 @@ const DOWNLOADS=[
  ['Apresentação editável','PowerPoint','Apresentacao_Final_ICE_Mocambique_2022_2025_Previsao_2026.pptx'],
  ['Manual de Utilização','PDF','Manual_Utilizacao_Plataforma_ICE_DNCE.pdf'],
  ['Manual editável','Word','Manual_Utilizacao_Plataforma_ICE_DNCE.docx'],
+ ['Manual Metodológico de Cálculo','PDF','Manual_Metodologico_Calculo_Indices_Comercio_Externo_DNCE.pdf'],
+ ['Manual Metodológico editável','Word','Manual_Metodologico_Calculo_Indices_Comercio_Externo_DNCE.docx'],
  ['Plano de capacitação e articulação','PDF','Plano_Capacitacao_Articulacao_Plataforma_ICE_DNCE.pdf'],
  ['Plano de capacitação editável','Word','Plano_Capacitacao_Articulacao_Plataforma_ICE_DNCE.docx']
 ];
